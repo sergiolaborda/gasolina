@@ -6,6 +6,7 @@ Extract data from minetur.gob.es about fuel prices
   - City, region, and fuel stations
   - fuel types
   - fuel prices
+* test.php is the same as fuel.py but in a php process
 
 It should be executed once per day
 
